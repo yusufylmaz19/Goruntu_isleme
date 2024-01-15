@@ -3,8 +3,8 @@
 # Mermer Çeşitlerinin Sınıflandırılması
 
 # Proje Ekibi
-195541009 - Yusuf Yılmaz
-195541013 - Kamuran Danış
+- 195541009 - Yusuf Yılmaz
+- 195541013 - Kamuran Danış
 
 
 ## Giriş
