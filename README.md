@@ -48,10 +48,10 @@ Model, doğrulama veri setinde %88.25 doğruluk ve %0.26 kayıp elde etmiştir. 
 
 Proje kapsamında geliştirilen kodlar, aşağıdaki iki dosyada yer almaktadır:
 
-- [prediction.py](link-to-prediction.py)
+- [prediction.py](prediction.py)
   Bu dosya, modeli kullanarak tek bir görüntüyü sınıflandırmak için gerekli kodları içerir.
 
-- [resnet_model.py](link-to-resnet_model.py)
+- [resnet_model.py](resnet_model.py)
   Bu dosya, modelin oluşturulması, eğitimi ve değerlendirilmesi için gerekli kodları içerir.
 
 ## Sonuç
