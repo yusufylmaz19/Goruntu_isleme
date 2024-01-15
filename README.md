@@ -2,6 +2,11 @@
 
 # Mermer Çeşitlerinin Sınıflandırılması
 
+# Proje Ekibi
+195541009 - Yusuf Yılmaz
+195541013 - Kamuran Danış
+
+
 ## Giriş
 
 Mermer çeşitlerinin sınıflandırılması, inşaat ve dekorasyon sektörlerinde önemli bir uygulamadır. Mermer çeşitlerinin doğru bir şekilde sınıflandırılması, mermerin özelliklerinin ve kalitesinin anlaşılması için gereklidir. Bu bilgi, mermerin doğru şekilde işlenmesini ve kullanılmasını sağlar.
